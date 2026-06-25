@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rakeshraj22/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rakeshraj22/LeetCode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/rakeshraj22/LeetCode/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rakeshraj22/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rakeshraj22/LeetCode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rakeshraj22/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/rakeshraj22/LeetCode/tree/master/0049-group-anagrams) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rakeshraj22/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
