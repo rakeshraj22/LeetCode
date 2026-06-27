@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rakeshraj22/LeetCode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/rakeshraj22/LeetCode/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rakeshraj22/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0347-top-k-frequent-elements](https://github.com/rakeshraj22/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rakeshraj22/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/rakeshraj22/LeetCode/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/rakeshraj22/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -32,8 +34,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/rakeshraj22/LeetCode/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/rakeshraj22/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rakeshraj22/LeetCode/tree/master/0011-container-with-most-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rakeshraj22/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rakeshraj22/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rakeshraj22/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rakeshraj22/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rakeshraj22/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
