@@ -9,7 +9,7 @@ class Solution {
             ans = Math.max(ans,temp);
             if(height[st] <= height[end]){
                 st++;
-            }else if(height[st]>height[end]) {
+            }else{
                 end--;
             }
         }
