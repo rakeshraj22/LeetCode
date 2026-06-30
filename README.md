@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rakeshraj22/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/rakeshraj22/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/rakeshraj22/LeetCode/tree/master/0049-group-anagrams) |
 | [0567-permutation-in-string](https://github.com/rakeshraj22/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sorting
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rakeshraj22/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/rakeshraj22/LeetCode/tree/master/0567-permutation-in-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rakeshraj22/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
