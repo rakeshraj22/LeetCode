@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rakeshraj22/LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rakeshraj22/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/rakeshraj22/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/rakeshraj22/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/rakeshraj22/LeetCode/tree/master/0853-car-fleet) |
 ## Monotonic Stack
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/rakeshraj22/LeetCode/tree/master/0226-invert-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/rakeshraj22/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
