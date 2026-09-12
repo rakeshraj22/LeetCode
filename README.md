@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rakeshraj22/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/rakeshraj22/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/rakeshraj22/LeetCode/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/rakeshraj22/LeetCode/tree/master/0796-rotate-string) |
 ## Sorting
 |  |
 | ------- |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/rakeshraj22/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/rakeshraj22/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
