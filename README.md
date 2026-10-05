@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rakeshraj22/LeetCode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/rakeshraj22/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/rakeshraj22/LeetCode/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/rakeshraj22/LeetCode/tree/master/0856-score-of-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/rakeshraj22/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/rakeshraj22/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/rakeshraj22/LeetCode/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/rakeshraj22/LeetCode/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/rakeshraj22/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/rakeshraj22/LeetCode/tree/master/0856-score-of-parentheses) |
 ## Database
 |  |
 | ------- |
